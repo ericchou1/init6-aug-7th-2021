@@ -1,6 +1,6 @@
-# London Network Automation Meetup #13 (June 2021)
+# YouTube Init6 Mentoring Hour (August 2021)
 
-This repsitory contains the files used for the London Network Automation Meetup #13 in June 2021 (https://www.meetup.com/London-Network-Automation-Meetup/events/278803429/) presentation by me.
+This repsitory contains the files used for the YouTube Init6 Mentoring Hour taking place in August 2021 (https://www.youtube.com/c/init6) presented by me.
 
 ## Instruction for Jupyter Notebook installation
 
